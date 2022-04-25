@@ -1,0 +1,19 @@
+Dados da Entrega: 
+
+Nome do cliente: nome_teste
+Contato do cliente: contato_teste
+Rua: rua_teste
+Número: numero_teste
+Bairro: bairro_teste
+Referência: referencia_teste
+
+Dados do Pedido: 
+
+Pastel Sabor: Carne - Preço: R$9
+Bebidas: 
+Coquinha: 1 - R$5
+Caldo de cana: 1 - R$4
+Suco de laranja: 0
+Água s/gas: 0
+
+Valor total: R$18.0
